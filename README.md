@@ -1,3 +1,4 @@
+![logo](https://github.com/korinikhil/korinikhil/blob/aa09fdfb324bb01b2fa8c7cd7931aa29a6f39e36/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil kori</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
